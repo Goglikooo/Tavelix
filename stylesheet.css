@@ -262,7 +262,7 @@ html, body {
   justify-content: space-between;
   width: 400px;
   height: 400px;
-  background-image: url(imgs/card2.jpg);
+  background-image: url(pics/card2.jpg);
   padding-bottom: 30px;  
   margin: 40px;
 }
@@ -274,7 +274,7 @@ html, body {
   justify-content: space-between;
   width: 400px;
   height: 400px;
-  background-image: url(imgs/card5.jpg);
+  background-image: url(pics/card5.jpg);
   padding-bottom: 30px;  
   margin: 40px;
 }
@@ -286,7 +286,7 @@ html, body {
   justify-content: space-between;
   width: 400px;
   height: 400px;
-  background-image: url(imgs/card3.jpg);
+  background-image: url(pics/card3.jpg);
   padding-bottom: 30px;
   margin: 40px;
 }
