@@ -6,6 +6,5 @@
 
 [Click Here!](https://goglikooo.github.io/Tavelix/)
 
-## Screenshot
 
-![screenshot](https://github.com/Goglikooo/Tavelix/blob/main/travel-page-1.jpg)
+
